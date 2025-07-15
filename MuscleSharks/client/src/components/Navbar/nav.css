@@ -1,0 +1,16 @@
+.icons i{
+    margin-right: 5px;
+    color: #3b15fa;
+}
+
+.active{
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+@media screen and (max-width:373px) {
+    .signup{
+        display: none;
+    }
+}
